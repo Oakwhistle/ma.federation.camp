@@ -1,15 +1,16 @@
-﻿using System;
+﻿/* using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
+using martialartsfederation.Data;
 
 namespace martialartsfederation.Models
 {
     public abstract class Person
     {
-
+        public int ID { get; set; }
         [Required]
         [StringLength(50)]
         [Display(Name = "Last Name")]
@@ -42,3 +43,4 @@ namespace martialartsfederation.Models
     }
 }
 
+*/

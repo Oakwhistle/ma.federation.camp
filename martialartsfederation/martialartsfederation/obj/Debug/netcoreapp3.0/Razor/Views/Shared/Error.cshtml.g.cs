@@ -26,8 +26,22 @@ using martialartsfederation.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\Oakwhistle\Source\GitPlace\jfedmockcamp\martialartsfederation\martialartsfederation\Views\_ViewImports.cshtml"
+using martialartsfederation.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Oakwhistle\Source\GitPlace\jfedmockcamp\martialartsfederation\martialartsfederation\Views\_ViewImports.cshtml"
+using martialartsfederation.Controllers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"32acda8e69724f67a0b2c04e74c89b92909c4e7e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cbd4366d6ff5b468c661e944c7fda96063466c3d", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

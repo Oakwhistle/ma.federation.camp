@@ -26,8 +26,22 @@ using martialartsfederation.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\Oakwhistle\Source\GitPlace\jfedmockcamp\martialartsfederation\martialartsfederation\Views\_ViewImports.cshtml"
+using martialartsfederation.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Oakwhistle\Source\GitPlace\jfedmockcamp\martialartsfederation\martialartsfederation\Views\_ViewImports.cshtml"
+using martialartsfederation.Controllers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"32acda8e69724f67a0b2c04e74c89b92909c4e7e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cbd4366d6ff5b468c661e944c7fda96063466c3d", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

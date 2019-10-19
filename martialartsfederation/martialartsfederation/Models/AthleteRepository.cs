@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using martialartsfederation.Models;
+using martialartsfederation.Data;
 
 namespace martialartsfederation.Models
 {

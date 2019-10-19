@@ -1,4 +1,5 @@
 using System;
+using martialartsfederation.Data;
 
 namespace martialartsfederation.Models
 {
